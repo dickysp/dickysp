@@ -8,4 +8,4 @@
 📫 **_Let's connect!_**
 - 📱 +62 813 1156 4122
 - 📧 dickyswanditya@outlook.com
-- LinkedIn : dickyswanditya
+- [LinkedIn](https://www.linkedin.com/in/dicky-swanditya/)
