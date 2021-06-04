@@ -10,4 +10,4 @@
 - 📧 dickyswanditya@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/dicky-swanditya/)
 ---
-This repository contains all of my past (personal and collaboration) data projects in Python. Also, check some visualizations I have done in [Tableau Public](https://public.tableau.com/profile/dicky.swanditya.putra)!
+This repository contains all of my past personal projects in Python. Also, check some visualizations I have done in [Tableau Public](https://public.tableau.com/profile/dicky.swanditya.putra)!
