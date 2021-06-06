@@ -11,3 +11,4 @@
 - [LinkedIn](https://www.linkedin.com/in/dicky-swanditya/)
 ---
 This repository contains all of my past personal projects in Python. Also, check some visualizations I have done in [Tableau Public](https://public.tableau.com/profile/dicky.swanditya.putra)!
+1. [Machine Learning: Shipping Prediction System] (https://github.com/dickysp/ml-shipping-prediction-system)
